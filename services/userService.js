@@ -1,7 +1,3 @@
-async function login(email, password) {
-
-}
-
 const UserModel = require("../models/userModel");
 const bcrypt = require('bcrypt');
 const uuid  = require('uuid');
